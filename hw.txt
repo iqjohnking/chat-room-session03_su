@@ -1,2 +1,0 @@
-+ read功能
-+ length功能
